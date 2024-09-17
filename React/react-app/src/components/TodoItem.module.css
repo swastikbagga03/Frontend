@@ -1,0 +1,4 @@
+.bgcontainer {
+    background-color: #b288d1;  /* Change background on hover */
+    cursor: pointer;            /* Show pointer cursor on hover */
+}
