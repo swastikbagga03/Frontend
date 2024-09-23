@@ -1,0 +1,13 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar{
+  min-height: 500px;
+}
+
+.main-container{
+  display: flex;
+  flex-direction: row;
+}
